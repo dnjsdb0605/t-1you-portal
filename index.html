@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>학교 업무 원샷 — 교사 즐겨찾기 포털</title>
+  <meta name="description" content="출판사, 나이스, 하이클래스 등 교사 업무 사이트 모음" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="logo">🏫</div>
+      <div>
+        <h1>학교 업무 원샷</h1>
+        <p class="sub">출판사 · 나이스 · 하이클래스 한 번에</p>
+      </div>
+      <div class="spacer"></div>
+      <label class="search">🔍
+        <input id="q" type="search" placeholder="사이트 검색 (예: 나이스, 천재, 알림장)" autocomplete="off" />
+      </label>
+      <button id="favBtn" class="btn" title="즐겨찾기만 보기">★ 즐겨찾기</button>
+      <button id="themeBtn" class="btn">🌙 다크</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="filters">
+      <div id="cats" style="display:flex;gap:8px;flex-wrap:wrap"></div>
+      <span id="count" class="count"></span>
+      <button id="resetBtn" class="btn">초기화</button>
+    </div>
+
+    <div id="sections"></div>
+
+    <footer class="footer">
+      <p>사이트 추가/수정: <code>data/sites.json</code> 파일에 항목만 추가하면 자동 반영됩니다. 즐겨찾기와 테마는 이 브라우저에 저장됩니다.</p>
+      <p>링크가 바뀌면 해당 <code>url</code> 값만 고치면 됩니다. 새 카테고리를 만들려면 <code>category</code>에 새 이름만 적으세요.</p>
+    </footer>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

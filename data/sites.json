@@ -1,0 +1,202 @@
+[
+  {
+    "id": "neis",
+    "name": "나이스 (NEIS)",
+    "desc": "교직원 업무포털 · 성적, 생기부, 인사",
+    "url": "https://www.neis.go.kr",
+    "category": "업무시스템",
+    "tags": ["나이스", "neis", "성적", "생기부"]
+  },
+  {
+    "id": "edunet",
+    "name": "에듀넷 · 티클리어",
+    "desc": "수업자료, 에듀테크, 티클리어",
+    "url": "https://www.edunet.net",
+    "category": "업무시스템",
+    "tags": ["에듀넷", "티클리어", "수업자료"]
+  },
+  {
+    "id": "cls",
+    "name": "e학습터",
+    "desc": "온라인 학습방 개설 · 과제 관리",
+    "url": "https://cls.edunet.net",
+    "category": "업무시스템",
+    "tags": ["e학습터", "온라인학습", "과제"]
+  },
+  {
+    "id": "schoolinfo",
+    "name": "학교알리미",
+    "desc": "학교 공시정보 조회",
+    "url": "https://www.schoolinfo.go.kr",
+    "category": "업무시스템",
+    "tags": ["공시", "학교정보"]
+  },
+  {
+    "id": "edufine",
+    "name": "K-에듀파인",
+    "desc": "학교 회계 · 예산 업무",
+    "url": "https://edufine.go.kr",
+    "category": "업무시스템",
+    "tags": ["회계", "예산", "에듀파인"]
+  },
+  {
+    "id": "moe",
+    "name": "교육부",
+    "desc": "교육정책, 보도자료, 법령",
+    "url": "https://www.moe.go.kr",
+    "category": "업무시스템",
+    "tags": ["교육부", "정책"]
+  },
+  {
+    "id": "hiclass",
+    "name": "하이클래스",
+    "desc": "학급 소통, 알림장, 출결",
+    "url": "https://www.hiclass.net",
+    "category": "수업·학급",
+    "tags": ["하이클래스", "알림장", "학급"]
+  },
+  {
+    "id": "classting",
+    "name": "클래스팅",
+    "desc": "학급 SNS, 과제, 소통",
+    "url": "https://www.classting.com",
+    "category": "수업·학급",
+    "tags": ["클래스팅", "학급", "과제"]
+  },
+  {
+    "id": "ebs",
+    "name": "EBS",
+    "desc": "방송 강의, 교재 자료",
+    "url": "https://www.ebs.co.kr",
+    "category": "수업·학급",
+    "tags": ["ebs", "인강", "방송"]
+  },
+  {
+    "id": "ebs-primary",
+    "name": "EBS 초등·중학",
+    "desc": "초중 대상 무료 강의",
+    "url": "https://primary.ebs.co.kr",
+    "category": "수업·학급",
+    "tags": ["ebs", "초등", "중학"]
+  },
+  {
+    "id": "classroom",
+    "name": "Google 클래스룸",
+    "desc": "구글 기반 온라인 클래스",
+    "url": "https://classroom.google.com",
+    "category": "수업·학급",
+    "tags": ["구글", "클래스룸", "온라인"]
+  },
+  {
+    "id": "padlet",
+    "name": "Padlet",
+    "desc": "협업 보드, 브레인스토밍",
+    "url": "https://padlet.com",
+    "category": "수업·학급",
+    "tags": ["padlet", "협업", "보드"]
+  },
+  {
+    "id": "tsherpa",
+    "name": "천재교육 T셀파",
+    "desc": "천재 교과서 교사용 자료",
+    "url": "https://www.tsherpa.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["천재", "t셀파", "교과서"]
+  },
+  {
+    "id": "chunjae",
+    "name": "천재교육",
+    "desc": "천재교육 공식 홈페이지",
+    "url": "https://www.chunjae.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["천재", "출판사"]
+  },
+  {
+    "id": "vivasam",
+    "name": "비상 VIVA샘",
+    "desc": "비상 교과서 교사용 플랫폼",
+    "url": "https://www.vivasam.com",
+    "category": "출판사·교과서",
+    "tags": ["비상", "viva", "교과서"]
+  },
+  {
+    "id": "ybm",
+    "name": "YBM",
+    "desc": "YBM 교과서 · 영어 교재",
+    "url": "https://www.ybm.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["ybm", "영어", "교과서"]
+  },
+  {
+    "id": "dongabook",
+    "name": "동아출판",
+    "desc": "동아 교과서 교사용 자료",
+    "url": "https://www.dongabook.com",
+    "category": "출판사·교과서",
+    "tags": ["동아", "교과서"]
+  },
+  {
+    "id": "mteacher",
+    "name": "미래엔 엠티처",
+    "desc": "미래엔 교과서 수업자료",
+    "url": "https://www.m-teacher.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["미래엔", "엠티처", "교과서"]
+  },
+  {
+    "id": "kumsung",
+    "name": "금성출판사",
+    "desc": "금성 교과서 · 푸르넷",
+    "url": "https://www.kumsung.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["금성", "교과서"]
+  },
+  {
+    "id": "jihak",
+    "name": "지학사",
+    "desc": "지학사 교과서 자료실",
+    "url": "https://www.jihak.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["지학사", "교과서"]
+  },
+  {
+    "id": "sinsago",
+    "name": "좋은책신사고",
+    "desc": "쎈 · 우공비 교사용 자료",
+    "url": "https://www.sinsago.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["신사고", "쎈", "문제집"]
+  },
+  {
+    "id": "iscream",
+    "name": "아이스크림",
+    "desc": "초등 수업자료 · 연수",
+    "url": "https://www.i-scream.co.kr",
+    "category": "출판사·교과서",
+    "tags": ["아이스크림", "초등", "수업자료"]
+  },
+  {
+    "id": "keris",
+    "name": "KERIS",
+    "desc": "한국교육학술정보원 · 나이스, 에듀넷 운영",
+    "url": "https://www.keris.or.kr",
+    "category": "연수·기관",
+    "tags": ["keris", "교육정보"]
+  },
+  {
+    "id": "teacherville",
+    "name": "티처빌",
+    "desc": "교사 원격연수 · 직무연수",
+    "url": "https://www.teacherville.co.kr",
+    "category": "연수·기관",
+    "tags": ["연수", "티처빌", "직무연수"]
+  },
+  {
+    "id": "kice",
+    "name": "한국교육과정평가원",
+    "desc": "수능 · 평가 문항 자료",
+    "url": "https://www.kice.re.kr",
+    "category": "연수·기관",
+    "tags": ["평가원", "수능", "문항"]
+  }
+]
